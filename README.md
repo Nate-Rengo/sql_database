@@ -31,7 +31,7 @@ The system stores data on:
 
 ##  Conceptual Design  
 ### Entity-Relationship Diagram (ERD)  
-![Entity-Relationship Diagram](docs/FINAL.png)
+![Entity-Relationship Diagram](FINAL.png)
 
 
 ## Installation & Setup  
