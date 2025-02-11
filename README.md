@@ -34,22 +34,6 @@ The system stores data on:
 ![Entity-Relationship Diagram](FINAL.png)
 
 
-## Installation & Setup  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/airline-database.git
-   cd airline-database
-   ```
-2. Import the database:  
-   ```sql
-   SOURCE airline_database.sql;
-   ```
-3. (Optional) Run backend server:  
-   ```bash
-   python app.py  # Flask
-   node server.js  # Node.js
-   ```
-
 ---
 
 ## Contributors  
